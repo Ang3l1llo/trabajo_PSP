@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|c:\\users\\pc\\documents\\dam ii\\psp-programaci\u00F3n de servicios y procesos\\c#\\primerproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|c:\\users\\pc\\documents\\dam ii\\psp-programaci\u00F3n de servicios y procesos\\c#\\primerproyecto\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|solutionrelative:goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|c:\\users\\pc\\documents\\dam ii\\psp-programaci\u00F3n de servicios y procesos\\c#\\primerproyecto\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|c:\\users\\pc\\documents\\dam ii\\psp-programaci\u00F3n de servicios y procesos\\c#\\primerproyecto\\invokercane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|solutionrelative:invokercane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|c:\\users\\pc\\documents\\dam ii\\psp-programaci\u00F3n de servicios y procesos\\c#\\primerproyecto\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|solutionrelative:target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|c:\\users\\pc\\documents\\dam ii\\psp-programaci\u00F3n de servicios y procesos\\c#\\primerproyecto\\protection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|solutionrelative:protection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|c:\\users\\pc\\documents\\dam ii\\psp-programaci\u00F3n de servicios y procesos\\c#\\primerproyecto\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|solutionrelative:shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|c:\\users\\pc\\documents\\dam ii\\psp-programaci\u00F3n de servicios y procesos\\c#\\primerproyecto\\lifepotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|solutionrelative:lifepotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|c:\\users\\pc\\documents\\dam ii\\psp-programaci\u00F3n de servicios y procesos\\c#\\primerproyecto\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|solutionrelative:potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|c:\\users\\pc\\documents\\dam ii\\psp-programaci\u00F3n de servicios y procesos\\c#\\primerproyecto\\minion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|solutionrelative:minion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|c:\\users\\pc\\documents\\dam ii\\psp-programaci\u00F3n de servicios y procesos\\c#\\primerproyecto\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49513DC-E67A-4F92-9E62-EC3EE1CDFED9}|Primerproyecto.csproj|solutionrelative:sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Target.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Target.cs",
+              "RelativeDocumentMoniker": "Target.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Target.cs",
+              "RelativeToolTip": "Target.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:36:08.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Protection.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Protection.cs",
+              "RelativeDocumentMoniker": "Protection.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Protection.cs",
+              "RelativeToolTip": "Protection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:31:10.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvokerCane.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\InvokerCane.cs",
+              "RelativeDocumentMoniker": "InvokerCane.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\InvokerCane.cs",
+              "RelativeToolTip": "InvokerCane.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:55:56.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Minion.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Minion.cs",
+              "RelativeDocumentMoniker": "Minion.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Minion.cs",
+              "RelativeToolTip": "Minion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:42:45.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Potion.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Potion.cs",
+              "RelativeDocumentMoniker": "Potion.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Potion.cs",
+              "RelativeToolTip": "Potion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:35:31.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LifePotion.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\LifePotion.cs",
+              "RelativeDocumentMoniker": "LifePotion.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\LifePotion.cs",
+              "RelativeToolTip": "LifePotion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:36:34.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shield.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Shield.cs",
+              "RelativeDocumentMoniker": "Shield.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Shield.cs",
+              "RelativeToolTip": "Shield.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:29:17.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Sword.cs",
+              "RelativeDocumentMoniker": "Sword.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Sword.cs",
+              "RelativeToolTip": "Sword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:28:39.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:04:27.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:58:57.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Goblin.cs",
+              "RelativeDocumentMoniker": "Goblin.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\DAM II\\PSP-Programaci\u00F3n de servicios y procesos\\c#\\Primerproyecto\\Goblin.cs",
+              "RelativeToolTip": "Goblin.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:27:23.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

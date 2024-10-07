@@ -1,0 +1,44 @@
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.exe
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.deps.json
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.runtimeconfig.json
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.dll
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.pdb
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.dll
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\obj\Debug\net8.0\refint\Primerproyecto.dll
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.pdb
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\DAM II\c#\Primerproyecto\obj\Debug\net8.0\ref\Primerproyecto.dll
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.exe
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.deps.json
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.runtimeconfig.json
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.dll
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.pdb
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.dll
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\refint\Primerproyecto.dll
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.pdb
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\ref\Primerproyecto.dll
+C:\Users\Lenovo\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.sourcelink.json
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.exe
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.deps.json
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.runtimeconfig.json
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.dll
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\bin\Debug\net8.0\Primerproyecto.pdb
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.AssemblyInfo.cs
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.sourcelink.json
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.dll
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\refint\Primerproyecto.dll
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.pdb
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\Primerproyecto.genruntimeconfig.cache
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\c#\Primerproyecto\obj\Debug\net8.0\ref\Primerproyecto.dll
