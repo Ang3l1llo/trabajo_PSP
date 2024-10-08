@@ -11,12 +11,13 @@ var sword = new Sword("Short sword", 10);
 var axe = new Axe("Bronze axe", 15);
 var shield = new Shield("Aegis of steel", 15);
 var helmet = new Helmet("Jagged helmet", 10);
-var InvokerCane = new InvokerCane("Stick of wood with some magic", 5, 3);
+var invokerCane = new InvokerCane("Stick of wood with some magic", 5, 3);
+var lifePotion = new LifePotion("LifePotion",20);
 var goblin = new Goblin();
 
 //comprobación de que se invocan minions
-InvokerCane.SummonMinion("Josue", 100, 50, 5);
-InvokerCane.SummonMinion("Luis", 90, 40, 10);
+invokerCane.SummonMinion("Josue", 100, 50, 5);
+invokerCane.SummonMinion("Luis", 90, 40, 10);
 
 
 Console.WriteLine("Manual Tests: ");
@@ -26,7 +27,8 @@ character.AddToInventory(sword);
 character.AddToInventory(axe);
 character.AddToInventory(shield);
 character.AddToInventory(helmet);
-character.AddToInventory(InvokerCane);
+character.AddToInventory(lifePotion);
+character.AddToInventory(invokerCane);
 
 //comprobación de que se aplican al pj
 sword.Apply(character);
@@ -38,10 +40,10 @@ axe.Apply(character);
 character.RecieveDamage(31);
 Console.WriteLine(character);
 
-character.Heal(10);
+lifePotion.Apply(character);
 Console.WriteLine(character);
 
 //comprobación de que los minions invocados atacan
-InvokerCane.OrderAttack(goblin);
+invokerCane.OrderAttack(goblin);
 Console.WriteLine(goblin);
 

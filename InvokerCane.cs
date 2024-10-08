@@ -41,8 +41,19 @@ namespace Primerproyecto
         {
             foreach(Minion minion in _minions)
             {
-                minion.Attack();
-                target.RecieveDamage(minion.Damage);
+                if(minion != null)
+                {
+                    if(target.IsAlive())
+                    {
+                        minion.Attack();
+                        target.RecieveDamage(minion.Damage);
+                    }                                  
+                }
+                else
+                {
+                    Console.WriteLine("You need to summon something before command them to attack");
+                }
+                
             }
         }
 

@@ -8,17 +8,16 @@ namespace Primerproyecto
 {
     class LifePotion : Potion
     {
-        public String name = "LifePotion";
-        public int Healing = 20;
-        public LifePotion() {
+        public int Healing {  get; set; }
+        public LifePotion(String name, int healing) {
 
-            String Name = "LifePotion";
-            int Healing = 20;
+            Name = name;
+            Healing = healing;
         }
         
         public override void Apply(Character character)
         {
-            character.Heal(Healing);
+            character.Heal(this);
 
             Console.WriteLine($"{character.Name} used a potion and recovers {Healing} points of life. Actual life: {character.CurrentHitPoints}");
 

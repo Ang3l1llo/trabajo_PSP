@@ -8,7 +8,7 @@ namespace Primerproyecto
 {
     abstract class Potion : IItem
     {
-        public required String Name { get; set; }
+        public String Name { get; set; }
         public abstract void Apply(Character character);
     }
 }

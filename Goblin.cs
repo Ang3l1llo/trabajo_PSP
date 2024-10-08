@@ -30,14 +30,17 @@ namespace Primerproyecto
         {
             int reducedDamage = Math.Max(0, damage - Defense()); 
             CurrentHitPoints -= reducedDamage;
+            Console.WriteLine($"{Name} ha recibido {reducedDamage} puntos de daño");
             if (CurrentHitPoints< 0)
             {
                 CurrentHitPoints = 0;
                 Console.WriteLine($"{Name} ha sido eliminado");
-            }
-            Console.WriteLine($"{Name} ha recibido {reducedDamage} puntos de daño");
+            }           
             return CurrentHitPoints;
-
+        }
+        public override bool IsAlive()
+        {
+            return CurrentHitPoints > 0;
         }
         public override string ToString()
         {

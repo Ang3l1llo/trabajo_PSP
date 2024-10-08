@@ -16,6 +16,7 @@ namespace Primerproyecto
         public int Armor {  get; set; }
 
         public abstract int RecieveDamage(int damage);
+        public abstract bool IsAlive();
     }
      
 }

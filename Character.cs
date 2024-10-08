@@ -51,14 +51,14 @@ namespace Primerproyecto
             return CurrentArmor;
 
         }
-        public void Heal(int healing)
+        public void Heal(LifePotion potion)
         {
-            CurrentHitPoints += healing;
+            CurrentHitPoints += potion.Healing;
             if (CurrentHitPoints > MaxHitPoints)
             {
                 CurrentHitPoints = MaxHitPoints;
             }
-            Console.WriteLine($"{Name} heals {healing} points of life");
+            Console.WriteLine($"{Name} heals {potion.Healing} points of life");
         }
         public int RecieveDamage(int damage)
         {
@@ -78,14 +78,34 @@ namespace Primerproyecto
         }
         public void EquipWeapon(Weapon weapon)
         {
-            _equippedWeapon.Add(weapon); 
-            Console.WriteLine($"{Name} equipped {weapon.Name}, now has {Attack()} points of damage");
+            int maxWeapons = 2;
+
+            if(_equippedWeapon.Count < maxWeapons)
+            {
+                _equippedWeapon.Add(weapon);
+                Console.WriteLine($"{Name} equipped {weapon.Name}, now has {Attack()} points of damage");
+            }
+            else
+            {
+                Console.WriteLine("You don't have enough hands");
+            }
+
 
         }
         public void EquipProtection(Protection protection)
         {
-            _equippedProtection.Add(protection); 
-            Console.WriteLine($"{Name} equipped {protection.Name}, now has {Defense()} points of armor");
+            int maxProtection = 5;
+            if(_equippedProtection.Count < maxProtection)
+            {
+                _equippedProtection.Add(protection);
+                Console.WriteLine($"{Name} equipped {protection.Name}, now has {Defense()} points of armor");
+            }
+            else
+            {
+                Console.WriteLine("You are full equipped");
+            }
+                
+            
         }
         public override string ToString()
         {
